@@ -1,0 +1,6 @@
+let firstnum = prompt("son kiriting:")
+let secondnum = prompt("son kiriting:")
+console.log( Number(firstnum) + Number(secondnum))
+console.log( firstnum * secondnum)
+console.log( firstnum / secondnum)
+console.log( firstnum - secondnum)
